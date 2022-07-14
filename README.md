@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Ludmila! <img src="https://github.com/luddias/readmefiles/blob/36a754db25c3821e25b8e200c7b1f72c3727d9fa/original.gif" width="70"> </h1>
 
 - 👨🏽‍💻  I'm a **passionate developer** searching to learn and grow everyday.
-- 🌱  I’m currently learning **Java Script, CSS3 and HTML5**. 
+- 🌱  I’m currently learning **Java Script, CSS3 and HTML5** and getting better in **Python**. 
 - 🎓  l am majoring in Information Systems at IFES.
 - 📫  How to reach me: **ludmiladias.inf@gmail.com**.
 - ⚡  Fun fact: **I am a MCU big fan**!

@@ -9,7 +9,6 @@
 <p align="center" float="left">
   <img src="https://github.com/luddias/readmefiles/blob/12990d15a6a5aea005679fbbf35bc58018524c4b/0c2a5632830679.569563b0d45b2.gif" width="200" />
   <img src="https://github.com/luddias/readmefiles/blob/12990d15a6a5aea005679fbbf35bc58018524c4b/6966b532830679.569563b0b0d07.gif" width="200" /> 
-  <img src="https://github.com/luddias/readmefiles/blob/12990d15a6a5aea005679fbbf35bc58018524c4b/a7dc9332830679.569563b0ef250.gif" width="200" />
 </p>
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
